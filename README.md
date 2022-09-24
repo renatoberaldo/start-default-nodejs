@@ -16,7 +16,7 @@ It is a simple project for start node.js projects using MVC Pattern.
 
 ```
 1 - npm install
-2 - Rename .env.example to .env and set your stytch config ( project_id and secret ).
+2 - Rename .env.example to .env and set your own configation.
 2 - yarn/npm start
 ```
 
